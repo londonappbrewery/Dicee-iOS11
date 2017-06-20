@@ -1,5 +1,5 @@
 # Dicee
-Learn to make iOS Apps 📱 | Project Stub | (Swift 2.0/Xcode 7) - Dicee App
+Learn to make iOS Apps 📱 | Project Stub | (Swift 4.0/Xcode 9) - Dicee App
 
 Download the starter project files as .zip and extract to your desktop. --->
 
@@ -8,4 +8,4 @@ Download the starter project files as .zip and extract to your desktop. --->
 
 
 
-Copyright 2015 London App Brewery
+Copyright 2017 London App Brewery
